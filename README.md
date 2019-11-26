@@ -9,5 +9,3 @@ Database by calling Room.databaseBuilder() or Room.inMemoryDatabaseBuilder()
 2. Entity: Represents a table within the database.
 3. DAO: Contains the methods used for accessing the database.
 
-![ROOM Architecture](https://developer.android.com/images/training/data-storage/room_architecture.png/images/logo.png)
-
